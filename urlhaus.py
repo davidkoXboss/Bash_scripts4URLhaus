@@ -1,8 +1,8 @@
 #!/usr/bin/env python
 
 """
-This Python code can be used to submit new malicious URLs to the URLhaus project by abuse.ch. Details about the API as well as you personal api_key can be found at
-https://urlhaus.abuse.ch/api/#submit
+This Pus.abython code can be used to submit new malicious URLs to the URLhaus project by abuse.ch. Details about the API as well as you personal api_key can be found at
+https://urlhause.ch/api/#submit
 For questions and feature requests about the code please contact the author.
 """
 
